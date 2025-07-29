@@ -4,7 +4,7 @@ function Home() {
   return (
     <>
       <header>
-        {/* What component should go here? */}
+          <NavBar />
       </header>
       <main>
         {/* Info goes here! */}

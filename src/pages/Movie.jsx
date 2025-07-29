@@ -1,10 +1,11 @@
+import NavBar from "../components/NavBar";
 import { useEffect, useState } from "react";
 
 function Movie() {
   return (
     <>
       <header>
-        {/* What component should go here? */}
+        <NavBar />
       </header>
       <main>
         {/* Movie info here! */}
